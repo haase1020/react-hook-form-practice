@@ -1,2 +1,2 @@
-# react-hook-form
+# react-hook-form-practice
 a simple react hook form
